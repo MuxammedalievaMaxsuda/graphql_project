@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.content h1{
+    
+        font-size: 24px;
+        font-weight: 600;
+        margin: 15px 0;
+}
+
+.content p{
+    font-size: 15px;
+    font-weight: 400;
+    color: rgb(22,22,22);
+    margin: 10px 0;
+}
+
+.content pre{
+    background-color: rgb(252, 252, 252);
+    padding: 10px;
+    border: 1px solid rgb(206,206,206);
+    border-radius: 8px;
+
+}
+   
